@@ -7,6 +7,7 @@ export default function Home(props) {
   return (
     <>
       <Head>
+        {/* eslint-disable-next-line react/no-unescaped-entities */}
         <title>Frank's Blog</title>
         <meta
           name="description"
